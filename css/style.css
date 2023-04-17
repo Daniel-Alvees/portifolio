@@ -114,6 +114,7 @@ body {
         justify-content: center;
         margin: 0;
         padding: 10%;
+        white-space: nowrap;
     }
     .container {
         display: flex;
